@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2018-2019 The LineageOS Project
+# Copyright (C) 2018-2019 The dotOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_akari.mk
+    $(LOCAL_DIR)/dot_akari.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_akari-user \
-    lineage_akari-userdebug \
-    lineage_akari-eng
+    dot_akari-user \
+    dot_akari-userdebug \
+    dot_akari-eng
